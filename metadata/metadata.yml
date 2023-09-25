@@ -1,0 +1,21 @@
+metadata_version: 1
+name: On the Maximum Achievable Sum-Rate of the RIS-Aided MIMO Broadcast Channel
+description: Simulation code for "On the Maximum Achievable Sum-Rate of the RIS-Aided
+  MIMO Broadcast Channel," by Nemanja Stefan Perović, Le-Nam Tran, Marco Di Renzo,
+  and Mark F. Flanagan,  IEEE Trans. Signal Process.,  vol. 70, pp. 6316 - 6331, 2022.
+authors:
+- name: Nemanja Stefan Perović
+  affiliations:
+  - name: University College Dublin
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+- name: Marco Di Renzo
+  affiliations:
+  - name: Université Paris-Saclay
+- name: Mark F. Flanagan
+  affiliations:
+  - name: University College Dublin
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
